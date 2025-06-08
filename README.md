@@ -163,10 +163,3 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 ## 👥 Contributors
 
 * **sdkh732** – Project initiator
-* **Your Name** – UI prototype and measurement tools
-
----
-
-## 📞 Contact & Support
-
-For questions or support, please open an issue or contact the maintainer via GitHub.
